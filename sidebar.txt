@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gei:home|Door43 (gei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gei|d43-gei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gei/archive/master.zip|d43-gei.zip]]
+
+**Recent Changes**
+{{changes>ns = gei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gei|Ethnologue data]]
+
